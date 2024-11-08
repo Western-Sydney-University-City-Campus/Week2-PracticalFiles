@@ -1,0 +1,40 @@
+<!-- The content for this document was sourced from https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-statistics/notifiable-data-breaches-report-july-december-2020/ on 03/03/2021 and is used for educational purposes only.
+-->
+
+Notifiable Data Breaches Report | OAIC
+
+SEF Week 2 Practical Exercises
+my student ID
+[Data Breach | databreach.html] [Notification Response | respond.html]
+
+Notifiable Data Breaches Report: July–December 2020
+
+About this report
+The Office of the Australian Information Commissioner (OAIC) periodically publishes statistical information about notifications received under the Notifiable Data Breaches (NDB) scheme to assist entities and the public to understand the operation of the scheme. This report captures notifications made under the NDB scheme for the period from 1 July to 31 December 2020.
+
+NDB scheme statistics in this report are current as of 8 January 2021. However, a number of notifications included in these statistics are still under assessment and their status and categorisation are subject to change.
+
+Executive summary
+The NDB scheme was established in February 2018 to improve consumer protection and drive better security standards for protecting personal information. Under the scheme, any organisation or government agency covered by the Privacy Act 1988 must notify individuals affected and the OAIC when a data breach is likely to result in serious harm to an individual whose personal information is involved.
+
+The OAIC publishes twice-yearly reports on notifications received under the NDB scheme to track the leading sources of data breaches, and to highlight emerging issues and areas for ongoing attention by regulated entities.
+
+image[figure1.jpg | Notification trends second half year 2020 | Comparisons are to the period from 1 January to 30 June 2020.
+These figures do not add up to a total of 100% due to the rounding up or down of the percentages for each category. | 550 | 262]
+
+Key findings for the July to December 2020 reporting period:
+-539 breaches were notified under the scheme, an increase of 5% from the 512 notifications received from January to June 2020.
+-Malicious or criminal attacks (including cyber incidents) remain the leading source of data breaches, accounting for 58% of notifications.
+-Data breaches resulting from human error accounted for 38% of notifications, up 18% from 173 notifications to 204.
+-The health sector remains the highest reporting industry sector, notifying 23% of all breaches, followed by finance, which notified 15% of all breaches.
+-The Australian Government entered the top 5 industry sectors to notify data breaches for the first time, notifying 6% of all breaches.
+-68% of data breaches affected 100 individuals or fewer.
+-78% of entities notified the OAIC within 30 days of becoming aware of an incident that was subsequently assessed to be an eligible data breach.
+
+image[chart1.svg | number of data breach notifications per month | Chart 1 - Data breach notifications under the NDB scheme | 700 | 348]
+
+Acknowledgement of Country
+We acknowledge the traditional custodians of Australia and their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the elders past, present and emerging.
+
+All material presented on this website is provided under a [Creative Commons Attribution 3.0 Australia licence | https://creativecommons.org/licenses/by/3.0/au/legalcode].
+All material presented on this website is sourced from Office of the Australian Information Commissioner — [www.oaic.gov.au | https://www.oaic.gov.au/]
